@@ -1,0 +1,15 @@
+/home/kali/PassGen/bin/Debug/net6.0/PassGen
+/home/kali/PassGen/bin/Debug/net6.0/PassGen.deps.json
+/home/kali/PassGen/bin/Debug/net6.0/PassGen.runtimeconfig.json
+/home/kali/PassGen/bin/Debug/net6.0/PassGen.dll
+/home/kali/PassGen/bin/Debug/net6.0/PassGen.pdb
+/home/kali/PassGen/obj/Debug/net6.0/PassGen.csproj.AssemblyReference.cache
+/home/kali/PassGen/obj/Debug/net6.0/PassGen.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/PassGen/obj/Debug/net6.0/PassGen.AssemblyInfoInputs.cache
+/home/kali/PassGen/obj/Debug/net6.0/PassGen.AssemblyInfo.cs
+/home/kali/PassGen/obj/Debug/net6.0/PassGen.csproj.CoreCompileInputs.cache
+/home/kali/PassGen/obj/Debug/net6.0/PassGen.dll
+/home/kali/PassGen/obj/Debug/net6.0/refint/PassGen.dll
+/home/kali/PassGen/obj/Debug/net6.0/PassGen.pdb
+/home/kali/PassGen/obj/Debug/net6.0/PassGen.genruntimeconfig.cache
+/home/kali/PassGen/obj/Debug/net6.0/ref/PassGen.dll
